@@ -1,4 +1,4 @@
-// blinking 2 leds after fading
+// blinking 2 leds after fade in / fade out
 // 2019.11.23
 
 int pin1 = 10;
